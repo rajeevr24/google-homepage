@@ -1,0 +1,19 @@
+body{
+    margin: 10px;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+#top-nav li{
+ display: inline;   
+}
+.right li{
+    float: right;
+}
